@@ -1,4 +1,4 @@
-body{
+mbody{
     background: #cccccc
   } 
 
@@ -17,7 +17,11 @@ p {
 }
   #missao { 
   font-size: 20px
- ]
+ }
   em strong {
  	color: #FF0000;
  }
+
+.itens{      
+         font-style: italic;
+ }  
