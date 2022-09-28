@@ -1,4 +1,4 @@
-mbody{
+body{
     background: #cccccc
   } 
 
@@ -6,7 +6,12 @@ mbody{
     
 }
 
-h1{
+.titulo-principal {
+
+   padding-left: 20px;
+}
+
+.titulo-centralizado {
  
  text-align: center
 }
@@ -25,7 +30,15 @@ p {
 .itens{      
          font-style: italic;
  }
- .imagembenefício{
+ .benefício{ 
+   background:#FFFFFF;
+   padding: 20px;
     width:50% ;
+}
 
+u1{
+   display: inline-block;
+   vertical-align: top;
+   width: 20%;
+   margin-right: 15%;
 }
