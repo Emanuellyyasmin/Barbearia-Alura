@@ -2,25 +2,32 @@ p {style
   text-align: center;
 }
 
-h1 {
+.titulo-centralizado{
   text-align: center
 }
 
+
 body {
-  background: #CCCCCC;
-  padding: 30px;
+
 }
   #banner{
     width:100%;
 }   
-.principal
+.principal {
+  background: #CCCCCC;
+  padding: 30px;
+}
 
+.titulo-principal{
+
+   padding-lef: 20px;
+}
 #missao{
   font-size: 20px
 }
 
 em strong{
-  color: purple;
+  color: darkseagreen;
 }
 .itens {
   font-style: italic
@@ -31,9 +38,6 @@ em strong{
     padding: 20px;
 }
 
-h2 {
-  text-align: center;
-}
 
 ul {
   display: inline-block;
